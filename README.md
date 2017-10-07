@@ -13,6 +13,8 @@
 - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
 - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 - [raywenderlich.com](https://videos.raywenderlich.com/screencasts)
+- [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
+- [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 
 ### :tv: Playlists
 - [Udacity: Intro to iOS App Development with Swift](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl1ukwgPc8h8h-nvCSwsL5J)
